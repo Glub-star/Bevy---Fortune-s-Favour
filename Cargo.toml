@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-bevy = { version = "0.14", default-features = false, features = ["bevy_winit", "bevy_ui", "png"] }
+bevy = "0.14"
 rand = "0.8"
